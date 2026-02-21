@@ -15,7 +15,6 @@ export default async function Home() {
 
   return (
     <main className="min-h-screen bg-slate-950 text-white p-8">
-      {/* Header */}
       <div className="max-w-4xl mx-auto mb-10 text-center">
         <h1 className="text-4xl font-bold text-green-500 mb-2">CryptoWatch</h1>
         <p className="text-gray-400">Monitoring Harga Kripto</p>
